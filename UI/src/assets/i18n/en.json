@@ -1,0 +1,149 @@
+{
+  "Navigation": {
+    "StartPage": "Home",
+    "Facility": "Facility",
+    "About": "About us",
+    "Rules": "Rules"
+  },
+  "StartPage": {
+    "Welcome": "Welcome to Étang de la Noë Frenouse!",
+    "WelcomeText": "Your dream fishing vacation near Brest, France.",
+    "WelcomeHeader": "Immerse yourself in a world of tranquility and fishing enjoyment at the beautiful Étang de la Noë Frenouse, a picturesque lake near Brest, France. We warmly invite you to experience unforgettable moments amidst natural beauty and indulge your passion for fishing in a unique setting.",
+    "Adventure": {
+      "Title": "Your fishing adventure starts here:",
+      "Description": "\nLook forward to unforgettable moments at Étang de la Noë Frenouse. Whether you come alone, with friends, or with family, our lake provides the perfect setting for your next fishing adventure. Combine the passion of fishing with relaxation and joy in an environment you will never forget."
+    },
+    "FishingPerfection": {
+      "Title": "Fishing in perfection:",
+      "Description": "\nFor all anglers, from beginners to experienced professionals, our lake is a true paradise. Here, you'll find an abundance of fish species, including carp, pike, and perch, all awaiting your patience and skills. Our waters provide optimal conditions for unforgettable fishing adventures."
+    },
+    "AboutLake": {
+      "Title": "About the lake:",
+      "Description": "Étang de la Noë Frenouse awaits you with an idyllic setting that invites relaxation. Surrounded by breathtaking scenery, the lake not only offers a prime fishing area but also an escape from the hustle and bustle of everyday life."
+    },
+    "Service": {
+      "Title": "Service and Relaxation:",
+      "Description": "Our facility offers more than just great fishing. Enjoy top-notch amenities, including comfortable fishing spots, resting areas, and the option to stay overnight. Whether you're planning a spontaneous fishing trip or a longer fishing vacation, you'll find everything you need to feel comfortable with us."
+    },
+    "Discover": {
+      "Title": "Explore the surroundings:",
+      "Description": "\nIn addition to fishing, the surroundings of Étang de la Noë Frenouse offer numerous leisure activities. Explore the rich history of Brest, discover local culinary delights, or take walks in nature to fully enjoy the beauty of Brittany."
+    },
+    "Book": {
+      "Text": "Contact us today to plan your stay or learn more about our offers and services. We look forward to welcoming you to Étang de la Noë Frenouse!",
+      "Button": "Book now through our partner",
+      "SweetAlertText": "Currently, our offer is not yet online at our partner, because the plant is still under construction, but you can contact us directly for questions."
+    }
+  },
+  "Footer": {
+    "Contact": "Contact",
+    "Imprint": "Imprint",
+    "Privacy": "Privacy"
+  },
+  "Imprint": {
+    "Title": "Imprint",
+    "Address": "Contact Address",
+    "Disclaimer": {
+      "Title": "Disclaimer",
+      "Text": "The author assumes no responsibility for the topicality, correctness, accuracy, reliability, and completeness of the information provided. Claims for liability against the author for material or immaterial damages resulting from the access or use, misuse of the connection, or technical malfunctions are excluded. All offers are non-binding. The author expressly reserves the right to change, add to, delete, or temporarily or permanently cease publication of parts of the pages or the entire offer without separate notice."
+    },
+    "LinkLiability": {
+      "Title": "Liability for Links",
+      "Text": "References and links to websites of third parties are outside of our responsibility. Any responsibility for such websites is declined. Access to and use of such websites are at the user's own risk."
+    },
+    "Copyrights": {
+      "Title": "Copyrights",
+      "Text": "The copyright and all other rights to content, images, photos, or other files on the website belong exclusively to Carpsjön or the specifically named rights holders. The written consent of the copyright holders must be obtained in advance for the reproduction of any elements."
+    }
+  },
+  "Contact": {
+    "Title": "Contact Form",
+    "Text": "We are excited to hear from you. If you have any questions, wish to provide suggestions, or simply want to get in touch, please use the contact form below. Your feedback is valuable to us, and we are here to assist you.",
+    "Form": {
+      "Name": {
+        "Title": "Name",
+        "Required": "Name is a required field"
+      },
+      "Mail": {
+        "Title": "Email",
+        "Required": "Email is a required field",
+        "InvalidMail": "Invalid email address"
+      },
+      "Subject": {
+        "Title": "Subject",
+        "Required": "Subject is a required field"
+      },
+      "Message": {
+        "Title": "Message",
+        "Required": "Message is a required field"
+      },
+      "Button": "Submit"
+    },
+    "FooterText": "We will process your inquiry as soon as possible and get in touch with you. Our aim is to provide you with the best possible service and address your concerns."
+  },
+  "Privacy": {
+    "Title": "Privacy Policy",
+    "General": {
+      "Title": "General / Introduction",
+      "Text1": "Based on Article 13 of the Swiss Federal Constitution and the data protection regulations of the Federal Government (Data Protection Act, DSG), every person has the right to protection of their privacy and protection against misuse of their personal data. The operators of these pages take the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with the statutory data protection regulations and this privacy policy.",
+      "Text2": "In cooperation with our hosting providers, we make every effort to protect the databases as effectively as possible against unauthorized access, loss, misuse, or falsification.",
+      "Text3": "We would like to point out that data transmission over the Internet (e.g., communication by e-mail) may have security vulnerabilities. Complete protection of data from access by third parties is not possible.",
+      "Text4": "By using this website, you agree to the collection, processing, and use of data as described below. This website can generally be visited without registration. Data such as pages accessed or the names of files accessed, date, and time are stored on the server for statistical purposes, without these data being directly related to your person. To the extent that personal data (e.g., name, address, or e-mail addresses) is collected on our pages, this is always done on a voluntary basis as far as possible. This data will not be passed on to third parties without your express consent."
+    },
+    "ProcessingData": {
+      "Title": "Processing of Personal Data",
+      "Text1": "Personal data refers to all information relating to an identified or identifiable person. An affected person is a person whose personal data is processed. Processing includes any handling of personal data, regardless of the means and methods used, in particular storage, disclosure, acquisition, deletion, retention, alteration, destruction, and use of personal data.",
+      "Text2": "We process personal data in accordance with Swiss data protection law. If and to the extent that the EU GDPR is applicable, we also process personal data based on the following legal bases in connection with Art. 6 (1) GDPR:\nlit. a) Processing of personal data with the consent of the data subject.\nlit. b) Processing of personal data for the performance of a contract with the data subject and for the implementation of pre-contractual measures.\nlit. c) Processing of personal data for compliance with a legal obligation to which we are subject under EU law or the law of a country in which the GDPR is fully or partially applicable.\nlit. d) Processing of personal data to protect the vital interests of the data subject or another natural person.\nlit. f) Processing of personal data to safeguard the legitimate interests of us or third parties, provided that the fundamental freedoms and rights and interests of the data subject do not outweigh them. Legitimate interests include, in particular, our business interest in being able to provide our website, information security, enforcing our own legal claims, and compliance with Swiss law.",
+      "Text3": "We process personal data for the duration necessary for the respective purpose or purposes. In the case of longer retention obligations due to legal and other obligations to which we are subject, we restrict processing accordingly."
+    },
+    "Ssl": {
+      "Title": "Using SSL/TLS Encryption",
+      "Text1": "For security reasons and to protect the transmission of confidential content, such as inquiries that you send to us as the site operator, this website uses SSL/TLS encryption. You can recognize an encrypted connection by the fact that the address line of the browser changes from \"http://\" to \"https://\" and by the lock symbol in your browser line.",
+      "Text2": "When SSL or TLS encryption is activated, the data you transmit to us cannot be read by third parties."
+    },
+    "ServerLog": {
+      "Title": "Server Log Files",
+      "Text1": "The provider of this website automatically collects and stores information in so-called server log files that your browser automatically transmits to us. These are:\nBrowser type and browser version\nOperating system used\nReferrer URL\nHost name of the accessing computer\nTime of the server request",
+      "Text2": "These data cannot be attributed to specific individuals. These data will not be combined with other data sources. We reserve the right to check these data subsequently if we become aware of concrete indications of illegal use."
+    },
+    "ThirdParty": {
+      "Title": "Third-Party Services",
+      "Text1": "This website may use Google Maps for embedding maps, Google Invisible reCAPTCHA to protect against bots and spam, and YouTube for embedding videos.",
+      "Text2": "These services from the American company Google LLC use cookies, which results in data being transmitted to Google in the USA. We assume that no personal tracking takes place solely through the use of our website in this context.",
+      "Text3": "Google is committed to ensuring adequate data protection in accordance with the US-European and US-Swiss Privacy Shield.",
+      "Text4": "For more information, please refer to Google's privacy policy."
+    },
+    "Contact": {
+      "Title": "Contact Form",
+      "Text": "If you send us inquiries via the contact form, your information from the inquiry form, including the contact details you provided there, will be stored by us for the purpose of processing the inquiry and in case of follow-up questions. We do not disclose this data without your consent."
+    },
+    "Rights": {
+      "Title": "Rights of the Data Subject",
+      "Title1": "Right to Confirmation",
+      "Text1": "Every data subject has the right to request confirmation from the operator of the website as to whether personal data concerning them is being processed. If you wish to exercise this right of confirmation, you can contact the data protection officer at any time.",
+      "Title2": "Right to Information",
+      "Text2": "Every data subject whose personal data is processed has the right to obtain free information from the operator of this website at any time about the personal data stored about them and a copy of this information. In addition, information can be provided about the following:\nPurposes of processing\nCategories of personal data processed\nRecipients to whom the personal data have been or will be disclosed\nIf possible, the intended duration of storage of the personal data or, if this is not possible, the criteria for determining this duration\nThe existence of a right to rectification or erasure of the personal data concerning them or to restriction of processing by the data controller or a right to object to such processing\nThe right to lodge a complaint with a supervisory authority\nIf the personal data are not collected from the data subject: All available information on the origin of the data.\nFurthermore, the data subject has the right to be informed whether personal data has been transferred to a third country or to an international organization. If this is the case, the data subject also has the right to obtain information about the appropriate safeguards in connection with the transfer.\nIf you wish to exercise this right to information, you can contact our data protection officer at any time.",
+      "Title3": "Right to Rectification",
+      "Text3": "Every data subject whose personal data is processed has the right to request the immediate rectification of inaccurate personal data concerning them. Furthermore, the data subject has the right, taking into account the purposes of the processing, to request the completion of incomplete personal data - also by means of a supplementary declaration.",
+      "Title4": "Right to Erasure (Right to Be Forgotten)",
+      "Text4": "Every data subject whose personal data is processed has the right to demand from the data controller of this website the immediate erasure of the personal data concerning them if one of the following reasons applies and the processing is no longer necessary:\nThe personal data were collected or otherwise processed for purposes for which they are no longer necessary.\nThe data subject withdraws consent on which the processing was based and there is no other legal basis for the processing.\nThe data subject objects to the processing for reasons arising from their particular situation, and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing for direct marketing purposes, including profiling.\nThe personal data have been unlawfully processed.\nErasure of the personal data is necessary to fulfill a legal obligation under EU law or the law of the Member States to which the data controller is subject.\nThe personal data were collected in relation to services offered by the information society directly to a child.\nIf one of the above-mentioned reasons applies and you want to initiate the deletion of personal data stored by the operator of this website, you can contact our data protection officer at any time. The data protection officer of this website will arrange for the erasure request to be complied with immediately.",
+      "Title5": "Right to Restriction of Processing",
+      "Text5": "Every data subject whose personal data is processed has the right to demand from the data controller of this website the restriction of processing if one of the following conditions is met:\nThe accuracy of the personal data is contested by the data subject, for a period enabling the data controller to verify the accuracy of the personal data.\nThe processing is unlawful, the data subject opposes the erasure of the personal data and requests instead the restriction of their use.\nThe data controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise, or defense of legal claims.\nThe data subject has objected to processing pursuant to Article 21(1) pending the verification whether the legitimate grounds of the data controller override those of the data subject.\nIf one of the above conditions is met, you can contact our data protection officer at any time to request the restriction of processing of personal data by the operator of this website. The data protection officer of this website will arrange for the restriction of processing.",
+      "Title6": "Right to Data Portability",
+      "Text6": "Every data subject whose personal data is processed has the right to receive the personal data concerning them, which they have provided to a responsible data controller, in a structured, commonly used, and machine-readable format. Furthermore, the data subject has the right to transmit this data to another data controller without hindrance from the data controller to whom the personal data have been provided, where the processing is based on consent pursuant to Article 6(1)(a) GDPR or Article 9(2)(a) GDPR or on a contract pursuant to Article 6(1)(b) GDPR, and the processing is carried out by automated means, as long as the processing is not necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the data controller.\nTo exercise the right to data portability, you can contact the data protection officer of the operator of this website at any time.\nRight to Object\nEvery data subject whose personal data is processed has the right, on grounds relating to their particular situation, to object at any time to processing of personal data concerning them. The data controller of this website will no longer process the personal data in the event of the objection, unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights, and freedoms of the data subject, or for the establishment, exercise, or defense of legal claims.\nTo exercise the right to object, you can contact the data protection officer of this website directly.\nRight to Withdraw Consent to Data Processing\nEvery data subject whose personal data is processed has the right to withdraw consent to the processing of their personal data at any time. If you wish to exercise your right to withdraw consent, you can contact our data protection officer at any time."
+    },
+    "GoogleMaps": {
+      "Title": "Google Maps",
+      "Text": "This website uses the Google Maps service. This enables us to display interactive maps directly on the website and allows you to use the map function conveniently. By visiting the website, Google receives information that you have accessed the corresponding subpage of our website. This occurs regardless of whether Google provides a user account through which you are logged in or whether no user account exists. If you are logged in to Google, your data will be directly associated with your account. If you do not want the assignment to your Google profile, you must log out before activating the button. Google stores your data as user profiles and uses them for purposes of advertising, market research, and/or tailoring its website to your needs. Such evaluation is carried out in particular (even for users who are not logged in) to provide needs-based advertising and to inform other users of the social network about your activities on our website. You have the right to object to the creation of these user profiles, and you must contact Google to exercise this right. For more information about the purpose and scope of data collection and processing by Google, as well as your related rights and privacy settings, please refer to Google's privacy policy: www.google.de/intl/en/policies/privacy."
+    },
+    "Instagram": {
+      "Title": "Instagram",
+      "Text": "Functions of the Instagram service are integrated on our website. These functions are provided by Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA. If you are logged into your Instagram account, you can link the content of our pages to your Instagram profile by clicking the Instagram button. This allows Instagram to associate your visit to our pages with your user account. We would like to point out that we, as the provider of the pages, have no knowledge of the content of the transmitted data or its use by Instagram. For more information, please see Instagram's privacy policy: http://instagram.com/about/legal/privacy/"
+    },
+    "YouTube": {
+      "Title": "YouTube",
+      "Text": "This website uses features of the \"YouTube\" service. \"YouTube\" is owned by Google Ireland Limited, a company incorporated and operated under Irish law with its registered office at Gordon House, Barrow Street, Dublin 4, Ireland, which provides services within the European Economic Area and Switzerland.\nYour legal agreement with \"YouTube\" consists of the terms you can find at the following link: https://www.youtube.com/static?gl=en&template=terms&hl=en. These terms constitute a legally binding agreement between you and \"YouTube\" regarding your use of the services. Google's privacy policy explains how \"YouTube\" handles and protects your personal data when you use the service."
+    }
+  }
+}
+

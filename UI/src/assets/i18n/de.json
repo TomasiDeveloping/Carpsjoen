@@ -1,0 +1,148 @@
+{
+  "Navigation": {
+    "StartPage": "Startseite",
+    "Facility": "Die Anlage",
+    "About": "Über uns",
+    "Rules": "Regeln"
+  },
+  "StartPage": {
+    "Welcome": "Willkommen am Étang de la Noë Frenouse!",
+    "WelcomeText": "Ihr traumhafter Angelurlaub nahe Brest, Frankreich",
+    "WelcomeHeader": "Tauchen Sie ein in eine Welt der Ruhe und des Angelspaßes am wunderschönen Étang de la Noë Frenouse, einem malerischen See in der Nähe von Brest, Frankreich. Wir laden Sie herzlich ein, unvergessliche Momente inmitten natürlicher Schönheit zu erleben und Ihre Leidenschaft für das Angeln in einem einzigartigen Ambiente auszuleben.",
+    "Adventure": {
+      "Title": "Ihr Angelabenteuer beginnt hier:",
+      "Description": "Freuen Sie sich auf unvergessliche Momente am Étang de la Noë Frenouse. Ob Sie alleine, mit Freunden oder der Familie anreisen, unser See bietet die perfekte Kulisse für Ihr nächstes Angelabenteuer. Verbinden Sie die Leidenschaft des Angelns mit Entspannung und Freude in einer Umgebung, die Sie nie vergessen werden."
+    },
+    "FishingPerfection": {
+      "Title": "Angeln in Perfektion:",
+      "Description": "Für alle Angler, vom Anfänger bis zum erfahrenen Profi, ist unser See ein wahres Paradies. Hier finden Sie eine Fülle von Fischarten, darunter Karpfen, Hechte und Barsche, die auf Ihre Geduld und Fähigkeiten warten. Unsere Gewässer bieten optimale Bedingungen für unvergessliche Angelabenteuer."
+    },
+    "AboutLake": {
+      "Title": "Über den See:",
+      "Description": "Der Étang de la Noë Frenouse erwartet Sie mit einer idyllischen Kulisse, die zum Entspannen einlädt. Umgeben von einer atemberaubenden Landschaft bietet der See nicht nur ein erstklassiges Angelrevier, sondern auch eine Flucht aus dem Alltagstrubel."
+    },
+    "Service": {
+      "Title": "Service und Erholung:",
+      "Description": "Unsere Anlage bietet mehr als nur großartiges Angeln. Genießen Sie erstklassige Einrichtungen, darunter komfortable Angelplätze, Rastbereiche und die Möglichkeit, zu übernachten. Egal, ob Sie einen spontanen Angelausflug oder einen längeren Angelurlaub planen, bei uns finden Sie alles, was Sie brauchen, um sich wohlzufühlen."
+    },
+    "Discover": {
+      "Title": "Entdecken Sie die Umgebung:",
+      "Description": "Neben dem Angeln bietet die Umgebung des Étang de la Noë Frenouse zahlreiche Freizeitmöglichkeiten. Erkunden Sie die reiche Geschichte von Brest, entdecken Sie lokale kulinarische Köstlichkeiten oder unternehmen Sie Spaziergänge in der Natur, um die Schönheit der Bretagne in vollen Zügen zu genießen."
+    },
+    "Book": {
+      "Text": "Kontaktieren Sie uns noch heute, um Ihren Aufenthalt zu planen, oder erfahren Sie mehr über unsere Angebote und Dienstleistungen. Wir freuen uns darauf, Sie am Étang de la Noë Frenouse willkommen zu heißen!",
+      "Button": "Jetzt über unseren Partner Buchen",
+      "SweetAlertText": "Aktuell ist unser Angebot noch nicht Online bei unserem Partner, da die Anlage noch im Ausbau ist.Ihr könnt uns aber gerne direkt Kontaktieren für Fragen"
+    }
+  },
+  "Footer": {
+    "Contact": "Kontakt",
+    "Imprint": "Impressum",
+    "Privacy": "Datenschutz"
+  },
+  "Imprint": {
+    "Title": "Impressum",
+    "Address": "Kontaktadresse",
+    "Disclaimer": {
+      "Title": "Haftungsausschluss",
+      "Text": "Der Autor übernimmt keinerlei Gewähr hinsichtlich der inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und Vollständigkeit der Informationen. Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder durch technische Störungen entstanden sind, werden ausgeschlossen. Alle Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen."
+    },
+    "LinkLiability": {
+      "Title": "Haftung für Links",
+      "Text": "Verweise und Links auf Webseiten Dritter liegen ausserhalb unseres Verantwortungsbereichs Es wird jegliche Verantwortung für solche Webseiten abgelehnt. Der Zugriff und die Nutzung solcher Webseiten erfolgen auf eigene Gefahr des Nutzers oder der Nutzerin."
+    },
+    "Copyrights": {
+      "Title": "Urheberrechte",
+      "Text": "Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf der Website gehören ausschliesslich Carpsjön oder den speziell genannten Rechtsinhabern. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen."
+    }
+  },
+  "Contact": {
+    "Title": "Kontaktformular",
+    "Text": "Wir freuen uns, von Ihnen zu hören. Wenn Sie Fragen haben, Anregungen geben möchten oder einfach mit uns in Kontakt treten möchten, nutzen Sie bitte das unten stehende Kontaktformular. Ihre Meinung ist uns wichtig und wir sind hier, um Ihnen zu helfen.",
+    "Form": {
+      "Name": {
+        "Title": "Name",
+        "Required": "Name ist ein Plichtfeld"
+      },
+      "Mail": {
+        "Title": "E-Mail",
+        "Required": "E-Mail ist ein Pflichtfeld",
+        "InvalidMail": "Ungültige E-Mail Adresse"
+      },
+      "Subject": {
+        "Title": "Betreff",
+        "Required": "Betreff ist ein Pflichtfeld"
+      },
+      "Message": {
+        "Title": "Nachricht",
+        "Required": "Nachricht ist ein Pflichtfeld"
+      },
+      "Button": "Absenden"
+    },
+    "FooterText": "Wir werden Ihre Anfrage so schnell wie möglich bearbeiten und sich mit Ihnen in Verbindung setzen. Wir streben danach, Ihnen den bestmöglichen Service zu bieten und auf Ihre Anliegen einzugehen"
+  },
+  "Privacy": {
+    "Title": "Datenschutzerklärung",
+    "General": {
+      "Title": "Allgemeines / Einleitung",
+      "Text1": "Gestützt auf Artikel 13 der Schweizerischen Bundesverfassung und die datenschutzrechtlichen Bestimmungen des Bundes (Datenschutzgesetz, DSG) hat jede Person Anspruch auf Schutz ihrer Privatsphäre sowie auf Schutz vor Missbrauch ihrer persönlichen Daten. Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.",
+      "Text2": "In Zusammenarbeit mit unseren Hosting-Providern bemühen wir uns, die Datenbanken so gut wie möglich vor unberechtigtem Zugriff, Verlust, Missbrauch oder Verfälschung zu schützen.",
+      "Text3": "Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.",
+      "Text4": "Durch die Nutzung dieser Website erklären Sie sich mit der Erhebung, Verarbeitung und Nutzung von Daten gemäss der nachfolgenden Beschreibung einverstanden. Diese Website kann grundsätzlich ohne Registrierung besucht werden. Daten wie aufgerufene Seiten oder Namen von aufgerufenen Dateien, Datum und Uhrzeit werden zu statistischen Zwecken auf dem Server gespeichert, ohne dass diese Daten unmittelbar auf Ihre Person bezogen werden. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben."
+    },
+    "ProcessingData": {
+      "Title": "Verarbeitung personenbezogener Daten",
+      "Text1": "Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare Person beziehen. Eine betroffene Person ist eine Person, über die personenbezogene Daten verarbeitet werden. Die Verarbeitung umfasst jeden Umgang mit personenbezogenen Daten, unabhängig von den verwendeten Mitteln und Verfahren, insbesondere die Speicherung, Weitergabe, Beschaffung, Löschung, Aufbewahrung, Veränderung, Vernichtung und Verwendung personenbezogener Daten.",
+      "Text2": "Wir verarbeiten personenbezogene Daten in Übereinstimmung mit dem Schweizer Datenschutzrecht. Sofern und soweit die EU-DSGVO anwendbar ist, verarbeiten wir personenbezogene Daten darüber hinaus auf folgenden Rechtsgrundlagen in Verbindung mit Art. 6 (1) GDPR:\nlit. a) Verarbeitung personenbezogener Daten mit Einwilligung der betroffenen Person.\nlit. b) Verarbeitung personenbezogener Daten zur Erfüllung eines Vertrages mit der betroffenen Person sowie zur Durchführung entsprechender vorvertraglicher Massnahmen.\nlit. c) Verarbeitung personenbezogener Daten zur Erfüllung einer rechtlichen Verpflichtung, der wir nach geltendem Recht der EU oder nach geltendem Recht eines Landes, in dem die GDPR ganz oder teilweise anwendbar ist, unterliegen.\nlit. d) Verarbeitung personenbezogener Daten zur Wahrung lebenswichtiger Interessen der betroffenen Person oder einer anderen natürlichen Person.\nlit. f) Verarbeitung personenbezogener Daten zur Wahrung der berechtigten Interessen von uns oder von Dritten, sofern nicht die Grundfreiheiten und Rechte und Interessen der betroffenen Person überwiegen. Zu den berechtigten Interessen gehören insbesondere unser geschäftliches Interesse, unsere Website bereitstellen zu können, die Informationssicherheit, die Durchsetzung eigener Rechtsansprüche und die Einhaltung des schweizerischen Rechts.",
+      "Text3": "Wir verarbeiten personenbezogene Daten für die Dauer, die für den jeweiligen Zweck oder die jeweiligen Zwecke erforderlich ist. Bei längerfristigen Aufbewahrungspflichten aufgrund gesetzlicher und anderer Verpflichtungen, denen wir unterliegen, schränken wir die Bearbeitung entsprechend ein."
+    },
+    "Ssl": {
+      "Title": "Mit SSL/TLS-Verschlüsselung",
+      "Text1": "Diese Website verwendet aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie z.B. Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL/TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von \"http://\" auf \"https://\" wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.",
+      "Text2": "Wenn die SSL- oder TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten gelesen werden."
+    },
+    "ServerLog": {
+      "Title": "Server-Log-Dateien",
+      "Text1": "Der Provider dieser Website erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:\nBrowsertyp und Browserversion\nVerwendetes Betriebssystem\nReferrer URL\nHostname des zugreifenden Rechners\nZeitpunkt der Serveranfrage",
+      "Text2": "Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Wir behalten uns vor, diese Daten nachträglich zu prüfen, wenn uns konkrete Anhaltspunkte für eine rechtswidrige Nutzung bekannt werden."
+    },
+    "ThirdParty": {
+      "Title": "Dienste von Drittanbietern",
+      "Text1": "Diese Website kann Google Maps zur Einbettung von Karten, Google Invisible reCAPTCHA zum Schutz vor Bots und Spam und YouTube zur Einbettung von Videos nutzen.",
+      "Text2": "Diese Dienste der amerikanischen Google LLC verwenden u.a. Cookies, wodurch Daten an Google in die USA übertragen werden, wobei wir davon ausgehen, dass in diesem Zusammenhang allein durch die Nutzung unserer Website kein personenbezogenes Tracking stattfindet.",
+      "Text3": "Google hat sich verpflichtet, einen angemessenen Datenschutz gemäss dem US-amerikanisch-europäischen und dem US-amerikanisch-schweizerischen Privacy Shield zu gewährleisten.",
+      "Text4": "Weitere Informationen finden Sie in den Datenschutzbestimmungen von Google."
+    },
+    "Contact": {
+      "Title": "Kontaktformular",
+      "Text": "Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter."
+    },
+    "Rights": {
+      "Title": "Rechte der betroffenen Person",
+      "Title1": "Recht auf Bestätigung",
+      "Text1": "Jede betroffene Person hat das Recht, vom Betreiber der Website eine Bestätigung darüber zu verlangen, ob sie betreffende personenbezogene Daten verarbeitet werden. Wenn Sie dieses Bestätigungsrecht ausüben möchten, können Sie sich jederzeit an den Datenschutzbeauftragten wenden.",
+      "Title2": "Auskunftsrecht",
+      "Text2": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das Recht, vom Betreiber dieser Website jederzeit unentgeltlich Auskunft über die zu ihrer Person gespeicherten Daten und eine Kopie dieser Auskunft zu erhalten. Darüber hinaus kann ggf. Auskunft über Folgendes erteilt werden:\nZwecke der Verarbeitung\nKategorien der verarbeiteten personenbezogenen Daten\nEmpfänger, an die die personenbezogenen Daten weitergegeben wurden oder werden\nwenn möglich, die geplante Dauer der Speicherung der personenbezogenen Daten oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer\ndas Bestehen eines Rechts auf Berichtigung oder Löschung der sie betreffenden personenbezogenen Daten oder auf Einschränkung der Verarbeitung durch den für die Verarbeitung Verantwortlichen oder ein Recht auf Widerspruch gegen eine solche Verarbeitung\ndas Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde\nwenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben werden: Alle verfügbaren Informationen über die Herkunft der Daten.\nAusserdem hat die betroffene Person das Recht, darüber informiert zu werden, ob personenbezogene Daten in ein Drittland oder an eine internationale Organisation übermittelt worden sind. Ist dies der Fall, so hat die betroffene Person ausserdem das Recht, Auskunft über die geeigneten Garantien im Zusammenhang mit der Übermittlung zu erhalten.\nWenn Sie von diesem Auskunftsrecht Gebrauch machen möchten, können Sie sich jederzeit an unseren Datenschutzbeauftragten wenden.",
+      "Title3": "Recht auf Berichtigung",
+      "Text3": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das Recht, die unverzügliche Berichtigung sie betreffender unrichtiger personenbezogener Daten zu verlangen. Darüber hinaus hat die betroffene Person das Recht, unter Berücksichtigung der Zwecke der Verarbeitung, die Vervollständigung unvollständiger personenbezogener Daten - auch mittels einer ergänzenden Erklärung - zu verlangen.\nWenn Sie dieses Recht auf Berichtigung ausüben möchten, können Sie sich jederzeit an unseren Datenschutzbeauftragten wenden.",
+      "Title4": "Recht auf Löschung (Recht auf Vergessenwerden)",
+      "Text4": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das Recht, von dem für die Verarbeitung Verantwortlichen dieser Website die unverzügliche Löschung der sie betreffenden personenbezogenen Daten zu verlangen, sofern einer der folgenden Gründe zutrifft und die Verarbeitung nicht mehr erforderlich ist:\nDie personenbezogenen Daten wurden für Zwecke erhoben oder auf sonstige Weise verarbeitet, für die sie nicht mehr erforderlich sind.\nDie betroffene Person widerruft die Einwilligung, auf der die Verarbeitung beruhte, und es gibt keine andere Rechtsgrundlage für die Verarbeitung\nDie betroffene Person legt aus Gründen, die sich aus ihrer besonderen Situation ergeben, Widerspruch gegen die Verarbeitung ein, und es liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder die betroffene Person legt im Falle von Direktwerbung und damit verbundenem Profiling Widerspruch gegen die Verarbeitung ein\nDie personenbezogenen Daten wurden unrechtmässig verarbeitet\nDie Löschung der personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem der für die Verarbeitung Verantwortliche unterliegt\nDie personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft erhoben, die direkt an ein Kind gerichtet sind\nWenn einer der oben genannten Gründe zutrifft und Sie die Löschung von personenbezogenen Daten, die beim Betreiber dieser Website gespeichert sind, veranlassen möchten, können Sie sich jederzeit an unseren Datenschutzbeauftragten wenden. Der Datenschutzbeauftragte dieser Website wird veranlassen, dass dem Löschverlangen unverzüglich nachgekommen wird.",
+      "Title5": "Recht auf Einschränkung der Verarbeitung",
+      "Text5": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das Recht, von dem für die Verarbeitung Verantwortlichen dieser Website die Einschränkung der Verarbeitung zu verlangen, wenn eine der folgenden Bedingungen erfüllt ist:\nDie Richtigkeit der personenbezogenen Daten wird von der betroffenen Person bestritten, und zwar für einen Zeitraum, der es dem für die Verarbeitung Verantwortlichen ermöglicht, die Richtigkeit der personenbezogenen Daten zu überprüfen\nDie Verarbeitung ist unrechtmässig, die betroffene Person legt Widerspruch gegen die Löschung der personenbezogenen Daten ein und verlangt stattdessen die Einschränkung der Nutzung der personenbezogenen Daten\nDer für die Verarbeitung Verantwortliche benötigt die personenbezogenen Daten nicht mehr für die Zwecke der Verarbeitung, die betroffene Person benötigt sie jedoch für die Geltendmachung, Die betroffene Person hat aus Gründen, die sich aus ihrer besonderen Situation ergeben, Widerspruch gegen die Verarbeitung eingelegt, und es steht noch nicht fest, ob die berechtigten Interessen des Verantwortlichen gegenüber denen der betroffenen Person überwiegen\nWenn eine der vorgenannten Voraussetzungen gegeben ist, können Sie sich jederzeit an unseren Datenschutzbeauftragten wenden, um die Einschränkung der Verarbeitung personenbezogener Daten beim Betreiber dieser Website zu verlangen. Der Datenschutzbeauftragte dieser Website wird die Einschränkung der Verarbeitung veranlassen.",
+      "Title6": "Recht auf Datenübertragbarkeit",
+      "Text6": "Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das Recht, die sie betreffenden personenbezogenen Daten in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Darüber hinaus hat die betroffene Person das Recht, zu erwirken, dass die personenbezogenen Daten direkt von einem für die Verarbeitung Verantwortlichen an einen anderen für die Verarbeitung Verantwortlichen übermittelt werden, sofern dies technisch machbar ist und sofern dadurch nicht die Rechte und Freiheiten anderer Personen beeinträchtigt werden.\nUm das Recht auf Datenübertragbarkeit geltend zu machen, können Sie sich jederzeit an den vom Betreiber dieser Website benannten Datenschutzbeauftragten wenden.\nEin Widerspruchsrecht\nJede von der Verarbeitung personenbezogener Daten betroffene Person hat das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung sie betreffender personenbezogener Daten Widerspruch einzulegen.\nDer Betreiber dieser Website wird die personenbezogenen Daten im Falle des Widerspruchs nicht mehr verarbeiten, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.\nUm von Ihrem Widerspruchsrecht Gebrauch zu machen, können Sie sich direkt an den Datenschutzbeauftragten dieser Website wenden.\nRecht auf Widerruf einer datenschutzrechtlichen Einwilligung\nJede von der Verarbeitung personenbezogener Daten betroffene Person hat das Recht, eine erteilte Einwilligung in die Verarbeitung personenbezogener Daten jederzeit zu widerrufen.\nWenn Sie von Ihrem Recht auf Widerruf einer Einwilligung Gebrauch machen möchten, können Sie sich jederzeit an unseren Datenschutzbeauftragten wenden."
+    },
+    "GoogleMaps": {
+      "Title": "Google Maps",
+      "Text": "Diese Website nutzt das Angebot von Google Maps. Dies ermöglicht es uns, interaktive Karten direkt auf der Website darzustellen und Ihnen die komfortable Nutzung der Kartenfunktion zu ermöglichen. Durch den Besuch der Website erhält Google die Information, dass Sie die entsprechende Unterseite unserer Website aufgerufen haben. Dies geschieht unabhängig davon, ob Google ein Nutzerkonto bereitstellt, über das Sie eingeloggt sind, oder ob kein Nutzerkonto vorhanden ist. Wenn Sie bei Google eingeloggt sind, werden Ihre Daten direkt Ihrem Konto zugeordnet. Wenn Sie die Zuordnung zu Ihrem Profil bei Google nicht wünschen, müssen Sie sich vor Aktivierung der Schaltfläche ausloggen. Google speichert Ihre Daten als Nutzungsprofile und nutzt sie für Zwecke der Werbung, Marktforschung und/oder bedarfsgerechten Gestaltung seiner Website. Eine solche Auswertung erfolgt insbesondere (auch für nicht eingeloggte Nutzer) zur Erbringung bedarfsgerechter Werbung und um andere Nutzer des sozialen Netzwerks über Ihre Aktivitäten auf unserer Website zu informieren. Sie haben das Recht, der Erstellung dieser Nutzerprofile zu widersprechen, wobei Sie sich zur Ausübung dieses Rechts an Google wenden müssen. Nähere Informationen zu Zweck und Umfang der Datenerhebung und -verarbeitung durch Google sowie weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre finden Sie unter: www.google.de/intl/de/policies/privacy."
+    },
+    "Instagram": {
+      "Title": "Instagram",
+      "Text": "Auf unserer Website sind Funktionen des Dienstes Instagram eingebunden. Diese Funktionen werden angeboten durch die Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA. Wenn Sie in Ihrem Instagram-Account eingeloggt sind, können Sie die Inhalte unserer Seiten auf Ihrem Instagram-Profil verlinken, indem Sie den Instagram-Button anklicken. Dadurch kann Instagram den Besuch unserer Seiten Ihrem Benutzerkonto zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Instagram erhalten. Weitere Informationen finden Sie in den Datenschutzbestimmungen von Instagram: http://instagram.com/about/legal/privacy/"
+    },
+    "YouTube": {
+      "Title": "YouTube",
+      "Text": "Auf dieser Website sind Funktionen des Dienstes \"YouTube\" integriert. \"YouTube\" ist Eigentum von Google Ireland Limited, einem nach irischem Recht gegründeten und betriebenen Unternehmen mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland, das die Dienste im Europäischen Wirtschaftsraum und in der Schweiz betreibt.\nIhre rechtliche Vereinbarung mit \"YouTube\" besteht aus den Bedingungen, die Sie unter dem folgenden Link finden: https://www.youtube.com/static?gl=de&template=terms&hl=de. Diese Bedingungen stellen eine rechtsverbindliche Vereinbarung zwischen Ihnen und \"YouTube\" bezüglich Ihrer Nutzung der Dienste dar. In den Datenschutzbestimmungen von Google wird erläutert, wie \"YouTube\" Ihre persönlichen Daten behandelt und schützt, wenn Sie den Dienst nutzen."
+    }
+  }
+}

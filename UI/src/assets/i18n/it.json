@@ -1,0 +1,148 @@
+{
+  "Navigation": {
+    "StartPage": "Pagina iniziale",
+    "Facility": "La struttura",
+    "About": "Chi siamo",
+    "Rules": "Regole"
+  },
+  "StartPage": {
+    "Welcome": "Benvenuti al Étang de la Noë Frenouse!",
+    "WelcomeText": "La vostra vacanza da sogno per la pesca vicino a Brest, Francia",
+    "WelcomeHeader": "Immergetevi in un mondo di tranquillità e divertimento nella pesca al bellissimo Étang de la Noë Frenouse, un pittoresco lago vicino a Brest, in Francia. Vi invitiamo calorosamente a vivere momenti indimenticabili in mezzo alla bellezza naturale e ad esprimere la vostra passione per la pesca in un ambiente unico.",
+    "Adventure": {
+      "Title": "La vostra avventura di pesca inizia qui:",
+      "Description": "Attendetevi momenti indimenticabili all'Étang de la Noë Frenouse. Che veniate da soli, con amici o con la famiglia, il nostro lago offre l'ambientazione perfetta per la vostra prossima avventura di pesca. Unite la passione per la pesca al relax e alla gioia in un ambiente che non dimenticherete mai."
+    },
+    "FishingPerfection": {
+      "Title": "Pesca nella perfezione:",
+      "Description": "Per tutti gli appassionati di pesca, dai principianti agli esperti, il nostro lago è un vero paradiso. Qui troverete un'abbondanza di specie di pesci, tra cui carpe, lucci e persici, tutti in attesa della vostra pazienza e abilità. Le nostre acque offrono condizioni ottimali per avventure di pesca indimenticabili."
+    },
+    "AboutLake": {
+      "Title": "A proposito del lago:",
+      "Description": "L'Étang de la Noë Frenouse vi aspetta con un ambiente idilliaco che invita al relax. Circondato da un paesaggio mozzafiato, il lago offre non solo una zona di pesca eccellente, ma anche una fuga dal trambusto quotidiano."
+    },
+    "Service": {
+      "Title": "Servizi e relax:",
+      "Description": "La nostra struttura offre molto più di una pesca eccezionale. Godetevi servizi di prim'ordine, tra cui posti comodi per la pesca, aree di riposo e la possibilità di pernottare. Che stiate pianificando una gita di pesca spontanea o una vacanza di pesca più lunga, troverete tutto ciò di cui avete bisogno per sentirvi a vostro agio da noi."
+    },
+    "Discover": {
+      "Title": "Esplorate l'ambiente circostante:",
+      "Description": "Oltre alla pesca, i dintorni dell'Étang de la Noë Frenouse offrono numerose attività ricreative. Esplorate la ricca storia di Brest, scoprite le delizie culinarie locali o fate passeggiate nella natura per godervi appieno la bellezza della Bretagna."
+    },
+    "Book": {
+      "Text": "Contattateci oggi stesso per pianificare il vostro soggiorno o per saperne di più sulle nostre offerte e servizi. Non vediamo l'ora di darvi il benvenuto all'Étang de la Noë Frenouse!",
+      "Button": "Prenota ora tramite il nostro partner",
+      "SweetAlertText": "Attualmente, la nostra offerta non è ancora online presso il nostro partner, perché l'impianto è ancora in costruzione, ma potete contattarci direttamente per domande."
+    }
+  },
+  "Footer": {
+    "Contact": "Contatti",
+    "Imprint": "Impronta",
+    "Privacy": "Protezione dei dati"
+  },
+  "Imprint": {
+    "Title": "Impronta",
+    "Address": "Indirizzo di contatto",
+    "Disclaimer": {
+      "Title": "Dichiarazione di non responsabilità",
+      "Text": "L'autore non assume alcuna responsabilità per l'attualità, la correttezza, l'accuratezza, l'affidabilità e la completezza delle informazioni fornite. Le pretese di responsabilità nei confronti dell'autore per danni materiali o immateriali derivanti dall'accesso o dall'uso, dall'abuso della connessione o da malfunzionamenti tecnici sono escluse. Tutte le offerte sono non vincolanti. L'autore si riserva espressamente il diritto di modificare, aggiungere, cancellare o sospendere temporaneamente o definitivamente la pubblicazione di parti delle pagine o dell'intera offerta senza preavviso separato."
+    },
+    "LinkLiability": {
+      "Title": "Responsabilità per i collegamenti",
+      "Text": "Riferimenti e collegamenti a siti Web di terze parti sono al di fuori della nostra responsabilità. Qualsiasi responsabilità per tali siti Web è declinata. L'accesso e l'uso di tali siti Web avvengono a rischio dell'utente."
+    },
+    "Copyrights": {
+      "Title": "Diritti d'autore",
+      "Text": "Il copyright e tutti gli altri diritti relativi ai contenuti, immagini, foto o altri file presenti sul sito Web appartengono esclusivamente a Carpsjön o ai titolari di diritti specificamente nominati. Il consenso scritto dei titolari dei diritti d'autore deve essere ottenuto in anticipo per la riproduzione di qualsiasi elemento."
+    }
+  },
+  "Contact": {
+    "Title": "Modulo di Contatto",
+    "Text": "Siamo entusiasti di ricevere tue notizie. Se hai domande, desideri fornire suggerimenti o semplicemente desideri metterti in contatto con noi, utilizza il modulo di contatto qui sotto. Il tuo feedback è prezioso per noi e siamo qui per assisterti.",
+    "Form": {
+      "Name": {
+        "Title": "Nome",
+        "Required": "Il nome è un campo obbligatorio"
+      },
+      "Mail": {
+        "Title": "E-mail",
+        "Required": "L'indirizzo e-mail è un campo obbligatorio",
+        "InvalidMail": "Indirizzo e-mail non valido"
+      },
+      "Subject": {
+        "Title": "Oggetto",
+        "Required": "L'oggetto è un campo obbligatorio"
+      },
+      "Message": {
+        "Title": "Messaggio",
+        "Required": "Il messaggio è un campo obbligatorio"
+      },
+      "Button": "Invia"
+    },
+    "FooterText": "Elaboreremo la tua richiesta il prima possibile e ti contatteremo. Il nostro obiettivo è fornirti il miglior servizio possibile e affrontare le tue preoccupazioni."
+  },
+  "Privacy": {
+    "Title": "Informativa sulla privacy",
+    "General": {
+      "Title": "Generale / Introduzione",
+      "Text1": "In base all'articolo 13 della Costituzione federale svizzera e alle normative sulla protezione dei dati del Governo federale (Legge sulla protezione dei dati, DSG), ogni persona ha il diritto alla protezione della propria privacy e alla protezione dallo sfruttamento dei propri dati personali. Gli operatori di queste pagine prendono molto seriamente la protezione dei tuoi dati personali. Trattiamo i tuoi dati personali in modo confidenziale e in conformità alle normative sulla protezione dei dati e alla presente informativa sulla privacy.",
+      "Text2": "In collaborazione con i nostri fornitori di hosting, facciamo ogni sforzo per proteggere i database in modo efficace da accessi non autorizzati, perdite, uso improprio o falsificazione.",
+      "Text3": "Desideriamo sottolineare che la trasmissione di dati su Internet (ad esempio, la comunicazione via e-mail) può presentare vulnerabilità alla sicurezza. La protezione completa dei dati dall'accesso da parte di terzi non è possibile.",
+      "Text4": "Utilizzando questo sito Web, accetti la raccolta, l'elaborazione e l'uso dei dati come descritto di seguito. Questo sito Web può essere visitato in genere senza registrazione. Dati come le pagine visitate o i nomi dei file accessi, la data e l'ora vengono archiviati sul server per scopi statistici, senza che questi dati siano direttamente correlati alla tua persona. Nella misura in cui vengono raccolti dati personali (ad esempio, nome, indirizzo o indirizzi e-mail) sulle nostre pagine, ciò avviene sempre su base volontaria per quanto possibile. Questi dati non saranno comunicati a terzi senza il tuo esplicito consenso."
+    },
+    "ProcessingData": {
+      "Title": "Elaborazione dei dati personali",
+      "Text1": "I dati personali si riferiscono a tutte le informazioni relative a una persona identificata o identificabile. Una persona interessata è una persona i cui dati personali sono elaborati. L'elaborazione include qualsiasi manipolazione di dati personali, indipendentemente dai mezzi e dai metodi utilizzati, in particolare la memorizzazione, la divulgazione, l'acquisizione, la cancellazione, la conservazione, l'alterazione, la distruzione e l'uso dei dati personali.",
+      "Text2": "Elaboriamo i dati personali in conformità con la legge svizzera sulla protezione dei dati. Se e nella misura in cui il GDPR dell'UE è applicabile, elaboriamo anche dati personali in base alle seguenti basi giuridiche in relazione all'art. 6 (1) GDPR:\nlit. a) Elaborazione dei dati personali con il consenso dell'interessato.\nlit. b) Elaborazione dei dati personali per l'esecuzione di un contratto con l'interessato e per l'attuazione di misure precontrattuali.\nlit. c) Elaborazione dei dati personali per adempiere a un obbligo legale cui siamo soggetti ai sensi del diritto dell'UE o del diritto di un paese in cui il GDPR è pienamente o parzialmente applicabile.\nlit. d) Elaborazione dei dati personali per proteggere gli interessi vitali dell'interessato o di un'altra persona fisica.\nlit. f) Elaborazione dei dati personali per salvaguardare gli interessi legittimi nostri o di terzi, sempre che le libertà fondamentali e i diritti e interessi dell'interessato non li prevarichino. Gli interessi legittimi includono, in particolare, il nostro interesse commerciale a poter fornire il nostro sito Web, la sicurezza delle informazioni, l'esercizio dei nostri stessi diritti legali e il rispetto del diritto svizzero.",
+      "Text3": "Elaboriamo i dati personali per la durata necessaria per lo scopo o gli scopi rispettivi. Nel caso di obblighi di conservazione più lunghi a causa di obblighi legali e altri obblighi ai quali siamo soggetti, limitiamo di conseguenza l'elaborazione."
+    },
+    "Ssl": {
+      "Title": "Utilizzo della crittografia SSL/TLS",
+      "Text1": "Per motivi di sicurezza e per proteggere la trasmissione di contenuti confidenziali, come le richieste che ci invii in qualità di operatore del sito, questo sito Web utilizza la crittografia SSL/TLS. Puoi riconoscere una connessione crittografata dal fatto che la riga dell'indirizzo del browser cambia da \"http://\" a \"https://\" e dal simbolo del lucchetto nella barra del browser.",
+      "Text2": "Quando la crittografia SSL o TLS è attivata, i dati che ci invii non possono essere letti da terzi."
+    },
+    "ServerLog": {
+      "Title": "File di log del server",
+      "Text1": "Il fornitore di questo sito Web raccoglie e memorizza automaticamente informazioni in cosiddetti file di log del server che il tuo browser ci trasmette automaticamente. Questi sono:\nTipo e versione del browser\nSistema operativo utilizzato\nURL di provenienza\nNome host del computer che effettua la richiesta al server\nOra della richiesta al server",
+      "Text2": "Questi dati non possono essere attribuiti a persone specifiche. Questi dati non saranno abbinati ad altre fonti di dati. Ci riserviamo il diritto di verificare questi dati successivamente se veniamo a conoscenza di indicazioni concrete di uso illecito."
+    },
+    "ThirdParty": {
+      "Title": "Servizi di terze parti",
+      "Text1": "Questo sito Web potrebbe utilizzare Google Maps per l'incorporamento di mappe, Google Invisible reCAPTCHA per proteggersi da bot e spam e YouTube per l'incorporamento di video.",
+      "Text2": "Questi servizi dell'azienda americana Google LLC utilizzano i cookie, il che comporta la trasmissione di dati a Google negli Stati Uniti. Riteniamo che il tracciamento personale non avvenga solo attraverso l'uso del nostro sito Web in questo contesto.",
+      "Text3": "Google si impegna a garantire una protezione adeguata dei dati in conformità con lo Scudo per la privacy UE-USA e Svizzera-USA.",
+      "Text4": "Per ulteriori informazioni, consulta l'informativa sulla privacy di Google."
+    },
+    "Contact": {
+      "Title": "Modulo di contatto",
+      "Text": "Se ci invii richieste tramite il modulo di contatto, le informazioni dal modulo di richiesta, inclusi i dettagli di contatto che hai fornito, saranno memorizzate da noi per lo scopo di elaborare la richiesta e in caso di domande successive. Non divulgiamo questi dati senza il tuo consenso."
+    },
+    "Rights": {
+      "Title": "Diritti dell'interessato",
+      "Title1": "Diritto di conferma",
+      "Text1": "Ogni interessato ha il diritto di richiedere conferma all'operatore del sito Web se vengono trattati dati personali che lo riguardano. Se desideri esercitare questo diritto di conferma, puoi contattare in qualsiasi momento il responsabile della protezione dei dati.",
+      "Title2": "Diritto di informazione",
+      "Text2": "Ogni interessato i cui dati personali sono trattati ha il diritto di ottenere gratuitamente informazioni dall'operatore di questo sito Web in qualsiasi momento sui dati personali memorizzati su di lui e una copia di tali informazioni. Inoltre, possono essere fornite informazioni sui seguenti aspetti:\nFinalità del trattamento\nCategorie di dati personali trattati\nDestinatari a cui sono stati o saranno comunicati i dati personali\nSe possibile, la durata prevista della conservazione dei dati personali o, se ciò non è possibile, i criteri per determinare tale durata\nL'esistenza di un diritto di rettifica o cancellazione dei dati personali che lo riguardano o di limitazione del trattamento da parte del responsabile del trattamento o il diritto di opporsi a tale trattamento\nIl diritto di presentare reclamo a un'autorità di controllo\nSe i dati personali non sono stati raccolti dalla persona interessata: Tutte le informazioni disponibili sull'origine dei dati.\nInoltre, la persona interessata ha il diritto di essere informata se i dati personali sono stati trasferiti a un paese terzo o a un'organizzazione internazionale. In tal caso, la persona interessata ha anche il diritto di ottenere informazioni sulle garanzie adeguate in relazione al trasferimento.\nSe desideri esercitare questo diritto di informazione, puoi contattare il nostro responsabile della protezione dei dati in qualsiasi momento.",
+      "Title3": "Diritto di rettifica",
+      "Text3": "Ogni persona interessata i cui dati personali sono trattati ha il diritto di richiedere la rettifica immediata dei dati personali inesatti che la riguardano. Inoltre, l'interessato ha il diritto, tenendo conto delle finalità del trattamento, di richiedere l'integrazione dei dati personali incompleti - anche mediante una dichiarazione aggiuntiva.",
+      "Title4": "Diritto all'oblio",
+      "Text4": "Ogni persona interessata i cui dati personali sono trattati ha il diritto di richiedere al responsabile del sito Web la cancellazione immediata dei dati personali che la riguardano se una delle seguenti ragioni si applica e il trattamento non è più necessario:\nI dati personali sono stati raccolti o altrimenti trattati per finalità per le quali non sono più necessari.\nLa persona interessata revoca il consenso su cui si basava il trattamento e non esiste un'altra base giuridica per il trattamento.\nLa persona interessata si oppone al trattamento per motivi derivanti dalla sua situazione particolare e non sussiste un motivo legittimo prevalente per il trattamento, oppure la persona interessata si oppone al trattamento per scopi di marketing diretto, compreso il profilazione.\nI dati personali sono stati trattati illecitamente.\nLa cancellazione dei dati personali è necessaria per adempiere a un obbligo legale ai sensi del diritto dell'UE o del diritto degli Stati membri cui è soggetto il responsabile del trattamento.\nI dati personali sono stati raccolti in relazione ai servizi offerti dalla società dell'informazione direttamente a un bambino.\nSe una delle ragioni sopra menzionate si applica e si desidera avviare la cancellazione dei dati personali memorizzati dall'operatore di questo sito Web, puoi contattare il nostro responsabile della protezione dei dati in qualsiasi momento. Il responsabile della protezione dei dati di questo sito Web provvederà a ottemperare immediatamente alla richiesta di cancellazione.",
+      "Title5": "Diritto di limitazione del trattamento",
+      "Text5": "Ogni persona interessata i cui dati personali sono trattati ha il diritto di richiedere al responsabile del sito Web la limitazione del trattamento se una delle seguenti condizioni è soddisfatta:\nL'accuratezza dei dati personali è contestata dalla persona interessata, per un periodo che consente al responsabile del trattamento di verificare l'accuratezza dei dati personali.\nIl trattamento è illecito, la persona interessata si oppone alla cancellazione dei dati personali e richiede invece la limitazione del loro utilizzo.\nIl responsabile del trattamento non ha più bisogno dei dati personali per le finalità del trattamento, ma sono richiesti dalla persona interessata per l'instaurazione, l'esercizio o la difesa di azioni legali.\nLa persona interessata si è opposta al trattamento ai sensi dell'articolo 21(1) in attesa della verifica se i motivi legittimi del responsabile del trattamento prevalgono su quelli della persona interessata.\nSe una delle condizioni sopra indicate è soddisfatta, puoi contattare il responsabile della protezione dei dati in qualsiasi momento per richiedere la limitazione del trattamento dei dati personali da parte dell'operatore di questo sito Web. Il responsabile della protezione dei dati di questo sito Web provvederà alla limitazione del trattamento.",
+      "Title6": "Diritto alla portabilità dei dati",
+      "Text6": "Ogni persona interessata i cui dati personali sono trattati ha il diritto di ricevere i dati personali che la riguardano, che ha fornito a un responsabile del trattamento, in un formato strutturato, di uso comune e leggibile da macchine. Inoltre, la persona interessata ha il diritto di trasmettere questi dati a un altro responsabile del trattamento senza impedimenti da parte del responsabile del trattamento a cui sono stati forniti i dati personali, se il trattamento si basa sul consenso ai sensi dell'articolo 6(1)(a) GDPR o dell'articolo 9(2)(a) GDPR o su un contratto ai sensi dell'articolo 6(1)(b) GDPR e il trattamento è effettuato mediante mezzi automatizzati, purché il trattamento non sia necessario per l'esecuzione di un compito svolto nell'interesse pubblico o nell'esercizio dell'autorità pubblica conferita al responsabile del trattamento.\nPer esercitare il diritto alla portabilità dei dati, puoi contattare in qualsiasi momento il responsabile della protezione dei dati dell'operatore di questo sito Web.\nDiritto di opposizione\nOgni persona interessata i cui dati personali sono trattati ha il diritto, per motivi legati alla sua situazione particolare, di opporsi in qualsiasi momento al trattamento dei dati personali che la riguardano. Il responsabile del trattamento di questo sito Web non tratterà più i dati personali in caso di opposizione, a meno che non possiamo dimostrare motivi legittimi convincenti per il trattamento che prevalgono sugli interessi, sui diritti e sulle libertà della persona interessata, o per l'instaurazione, l'esercizio o la difesa di azioni legali.\nPer esercitare il diritto di opposizione, puoi contattare direttamente il responsabile della protezione dei dati di questo sito Web.\nDiritto di revocare il consenso al trattamento dei dati\nOgni persona interessata i cui dati personali sono trattati ha il diritto di revocare il consenso al trattamento dei suoi dati personali in qualsiasi momento. Se desideri esercitare il tuo diritto di revoca del consenso, puoi contattare in qualsiasi momento il nostro responsabile della protezione dei dati."
+    },
+    "GoogleMaps": {
+      "Title": "Google Maps",
+      "Text": "Questo sito Web utilizza il servizio Google Maps. Ciò ci consente di visualizzare mappe interattive direttamente sul sito Web e ti consente di utilizzare comodamente la funzione di mappa. Visitando il sito Web, Google riceve informazioni sul fatto che hai visitato la sotto-pagina corrispondente del nostro sito Web. Questo avviene indipendentemente dal fatto che Google fornisca un account utente tramite il quale sei connesso o se non esiste un account utente. Se sei connesso a Google, i tuoi dati saranno associati direttamente al tuo account. Se non desideri l'assegnazione al tuo profilo Google, devi disconnetterti prima di attivare il pulsante. Google memorizza i tuoi dati come profili utente e li utilizza per scopi di pubblicità, ricerche di mercato e/o per adattare il proprio sito Web alle tue esigenze. Tale valutazione viene effettuata in particolare (anche per gli utenti non connessi) per fornire pubblicità su misura e per informare gli altri utenti del social network sulle tue attività sul nostro sito Web. Hai il diritto di opporsi alla creazione di questi profili utente e devi contattare Google per esercitare tale diritto. Per ulteriori informazioni sullo scopo e l'ambito della raccolta e dell'elaborazione dei dati da parte di Google, nonché sui tuoi diritti correlati e le impostazioni sulla privacy, consulta l'informativa sulla privacy di Google: www.google.de/intl/en/policies/privacy."
+    },
+    "Instagram": {
+      "Title": "Instagram",
+      "Text": "Sulle nostre pagine sono integrate le funzioni del servizio Instagram. Queste funzioni sono offerte da Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA. Se sei connesso al tuo account Instagram, puoi collegare il contenuto delle nostre pagine al tuo profilo Instagram facendo clic sul pulsante Instagram. Ciò consente a Instagram di associare la tua visita alle nostre pagine al tuo account utente. Desideriamo sottolineare che noi, in qualità di provider delle pagine, non abbiamo conoscenza dei contenuti dei dati trasmessi o del loro utilizzo da parte di Instagram. Per ulteriori informazioni, consulta l'informativa sulla privacy di Instagram: http://instagram.com/about/legal/privacy/"
+    },
+    "YouTube": {
+      "Title": "YouTube",
+      "Text": "Questo sito Web utilizza funzionalità del servizio \"YouTube\". \"YouTube\" è di proprietà di Google Ireland Limited, una società incorporata e operante in base al diritto irlandese con sede legale presso Gordon House, Barrow Street, Dublino 4, Irlanda, che fornisce servizi nell'area economica europea e in Svizzera.\nIl tuo accordo legale con \"YouTube\" è costituito dai termini che puoi trovare al seguente link: https://www.youtube.com/static?gl=en&template=terms&hl=en. Questi termini costituiscono un accordo legalmente vincolante tra te e \"YouTube\" riguardo all'utilizzo dei servizi. L'informativa sulla privacy di Google spiega come \"YouTube\" gestisce e protegge i tuoi dati personali quando utilizzi il servizio."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<div class="footer">
+  <div class="footer-container">
+    <div class="logo">
+      <img src="assets/brand/logo-small.png">
+      <div class="social">
+        <i (click)="onInstagram()" class="bi bi-instagram footer-cursor"></i>
+        <i (click)="onYoutube()" class="bi bi-youtube footer-cursor"></i>
+      </div>
+    </div>
+    <div>
+      <div class="footer-cursor" routerLink="/contact">{{'Footer.Contact' | translate}}</div>
+      <div class="footer-cursor"  routerLink="/imprint">{{'Footer.Imprint' | translate}}</div>
+      <div class="footer-cursor"  routerLink="/privacy">{{'Footer.Privacy' | translate}}</div>
+    </div>
+  </div>
+  <div class="copyright">
+    <hr>
+    © {{currentYear}} Copyright Carpsjön
+  </div>
+</div>

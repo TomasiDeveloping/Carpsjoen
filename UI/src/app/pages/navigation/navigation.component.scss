@@ -1,0 +1,24 @@
+.version {
+  font-size: 10px;
+  color: dodgerblue;
+}
+
+.bi {
+  color: white;
+  cursor: pointer;
+}
+
+.bi:hover {
+  color: lightblue;
+}
+
+.dropdown-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  img {
+    object-fit: contain;
+    aspect-ratio: 2/1;
+  }
+}

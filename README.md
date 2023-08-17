@@ -12,5 +12,11 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=TomasiDeveloping_Carpsjoen&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=TomasiDeveloping_Carpsjoen)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=TomasiDeveloping_Carpsjoen&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=TomasiDeveloping_Carpsjoen)
 ## Changelog
+## Work in progress
+### 0.0.2 (2023-08-17)
+- Add Navigation
+- Add Startpage
+- Add Multilanguage
+- Add Dark/Light Mode
 ### 0.0.1 (2023-29-07)
 - Init Project

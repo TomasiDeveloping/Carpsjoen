@@ -1,0 +1,52 @@
+<div class="container">
+  <h1 class="custom-font">{{'Contact.Title' | translate}}</h1>
+  <p>{{'Contact.Text' | translate}}</p>
+  <form (ngSubmit)="onSubmit()" [formGroup]="contactForm">
+    <div class="form-group">
+      <label class="form-label" for="name">{{'Contact.Form.Name.Title' | translate}}</label>
+      <input [ngClass]="{
+      'is-invalid': name?.invalid && (name?.dirty || name?.touched),
+      'is-valid': name?.valid
+      }" class="form-control" formControlName="name" id="name" type="text">
+      <div *ngIf="name?.errors && (name?.dirty || name?.touched)" class="invalid-feedback">
+        <p *ngIf="name?.hasError('required')">{{'Contact.Form.Name.Required' | translate}}</p>
+      </div>
+    </div>
+    <div class="form-group">
+      <label class="form-label" for="email">{{'Contact.Form.Mail.Title' | translate}}</label>
+      <input [ngClass]="{
+      'is-invalid': email?.invalid && (email?.dirty || email?.touched),
+      'is-valid': email?.valid
+      }" class="form-control" formControlName="email" id="email" type="text">
+      <div *ngIf="email?.errors && (email?.dirty || email?.touched)" class="invalid-feedback">
+        <p *ngIf="email?.hasError('required')">{{'Contact.Form.Mail.Required' | translate}}</p>
+        <p *ngIf="email?.hasError('email')">{{'Contact.Form.Mail.InvalidMail' | translate}}</p>
+      </div>
+    </div>
+    <div class="form-group">
+      <label class="form-label" for="subject">{{'Contact.Form.Subject.Title' | translate}}</label>
+      <input [ngClass]="{
+      'is-invalid': subject?.invalid && (subject?.dirty || subject?.touched),
+      'is-valid': subject?.valid
+      }" class="form-control" formControlName="subject" id="subject" type="text">
+      <div *ngIf="subject?.errors && (subject?.dirty || subject?.touched)" class="invalid-feedback">
+        <p *ngIf="subject?.hasError('required')">{{'Contact.Form.Subject.Required' | translate}}</p>
+      </div>
+    </div>
+    <div class="form-group">
+      <label class="form-label" for="message">{{'Contact.Form.Message.Title' | translate}}</label>
+      <textarea [ngClass]="{
+      'is-invalid': message?.invalid && (message?.dirty || message?.touched),
+      'is-valid': message?.valid
+      }" class="form-control" formControlName="message" id="message" rows="3"></textarea>
+      <div *ngIf="message?.errors && (message?.dirty || message?.touched)" class="invalid-feedback">
+        <p *ngIf="message?.hasError('required')">{{'Contact.Form.Message.Required' | translate}}</p>
+      </div>
+    </div>
+    <div class="d-flex justify-content-end mt-4">
+      <button [disabled]="contactForm.invalid" class="btn btn-success">{{'Contact.Form.Button' | translate}}</button>
+    </div>
+  </form>
+  <p class="mt-4">{{'Contact.FooterText' | translate}}</p>
+</div>
+
