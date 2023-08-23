@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {environment} from "../../../environments/environment";
 
 @Component({
   selector: 'app-footer',
@@ -8,6 +9,7 @@ import { Component } from '@angular/core';
 export class FooterComponent {
 
   public currentYear: number = new Date().getFullYear();
+  public version: string = environment.version;
 
   onInstagram() {
     window.open('https://www.instagram.com/_freilauf/', '_blank');

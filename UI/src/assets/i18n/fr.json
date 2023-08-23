@@ -144,5 +144,25 @@
       "Title": "YouTube",
       "Text": "Ce site Web utilise des fonctionnalités du service \"YouTube\". \"YouTube\" est détenu par Google Ireland Limited, une société constituée et exploitée en vertu du droit irlandais, dont le siège social est situé à Gordon House, Barrow Street, Dublin 4, Irlande, qui fournit des services dans l'Espace économique européen et en Suisse.\nVotre accord juridique avec \"YouTube\" est constitué par les conditions que vous pouvez trouver au lien suivant : https://www.youtube.com/static?gl=en&template=terms&hl=en. Ces conditions constituent un accord légalement contraignant entre vous et \"YouTube\" concernant votre utilisation des services. La politique de confidentialité de Google explique comment \"YouTube\" traite et protège vos données personnelles lorsque vous utilisez le service."
     }
+  },
+  "AboutUs": {
+    "Title": "À Propos de Nous",
+    "Text1": "Nous sommes Susi et Dominik - des pêcheurs passionnés et fiers propriétaires de ce magnifique lac. Notre histoire a commencé avec un amour partagé pour la nature et l'art de la pêche. Nous avons non seulement fait de cet endroit notre domicile, mais aussi un lieu de rassemblement où des personnes partageant les mêmes passions se retrouvent pour échanger leurs expériences de pêche et apprécier la beauté de la nature.",
+    "Text2": "Nos journées tournent autour de ce que nous aimons : le doux bruissement de l'eau, l'anticipation lorsque nous lançons nos appâts et la joie de capturer un poisson magnifique. Pourtant, nous sommes bien plus que de simples pêcheurs passionnés. Nous sommes également des hôtes et des conseillers. Nous voulons que vous profitiez pleinement de chaque instant passé à notre lac.",
+    "Text3": "Que vous soyez un pêcheur expérimenté ou que vous teniez une canne à pêche pour la première fois, nous sommes là pour vous aider avec des conseils et du soutien. Vous avez des questions sur les meilleures techniques de pêche pour ce lac ? Vous êtes intéressé par des astuces éprouvées pour attraper le plus gros poisson de la journée ? Ou vous cherchez simplement un endroit paisible pour vous régaler culinairement ? Nous sommes là pour vous aider.",
+    "Text4": "Notre hospitalité va au-delà de la pêche. Dans notre refuge confortable au bord du lac, vous pouvez vous détendre et profiter de la vue. Notre équipe prépare des repas délicieux et des boissons rafraîchissantes pour vous maintenir en forme et satisfait.",
+    "Text5": "Bienvenue chez nous, où la passion pour la pêche rencontre la beauté de la nature. Nous avons hâte de vous accueillir au lac, de partager nos meilleurs conseils, de vous aider à atteindre vos objectifs de pêche et de vous offrir une expérience inoubliable - à la fois sur l'eau et sur terre.",
+    "Susi": {
+      "Title": "Susi",
+      "Skill1": "Propriétaire",
+      "Skill2": "Conseils et Astuces",
+      "Skill3": "Culinaire"
+    },
+    "Dominik": {
+      "Title": "Dominik",
+      "Skill1": "Propriétaire",
+      "Skill2": "Conseils et Astuces",
+      "Skill3": "Consultation"
+    }
   }
 }

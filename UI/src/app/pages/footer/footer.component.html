@@ -1,7 +1,7 @@
 <div class="footer">
   <div class="footer-container">
     <div class="logo">
-      <img src="assets/brand/logo-small.png">
+      <img src="assets/brand/logo-small.png" alt="Carpsjön logo">
       <div class="social">
         <i (click)="onInstagram()" class="bi bi-instagram footer-cursor"></i>
         <i (click)="onYoutube()" class="bi bi-youtube footer-cursor"></i>
@@ -15,6 +15,11 @@
   </div>
   <div class="copyright">
     <hr>
-    © {{currentYear}} Copyright Carpsjön
+    <div class="version">
+      Version {{version}}
+    </div>
+    <div>
+      © {{currentYear}} Copyright Carpsjön
+    </div>
   </div>
 </div>

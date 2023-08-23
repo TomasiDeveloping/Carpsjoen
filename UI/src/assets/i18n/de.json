@@ -144,5 +144,25 @@
       "Title": "YouTube",
       "Text": "Auf dieser Website sind Funktionen des Dienstes \"YouTube\" integriert. \"YouTube\" ist Eigentum von Google Ireland Limited, einem nach irischem Recht gegründeten und betriebenen Unternehmen mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland, das die Dienste im Europäischen Wirtschaftsraum und in der Schweiz betreibt.\nIhre rechtliche Vereinbarung mit \"YouTube\" besteht aus den Bedingungen, die Sie unter dem folgenden Link finden: https://www.youtube.com/static?gl=de&template=terms&hl=de. Diese Bedingungen stellen eine rechtsverbindliche Vereinbarung zwischen Ihnen und \"YouTube\" bezüglich Ihrer Nutzung der Dienste dar. In den Datenschutzbestimmungen von Google wird erläutert, wie \"YouTube\" Ihre persönlichen Daten behandelt und schützt, wenn Sie den Dienst nutzen."
     }
+  },
+  "AboutUs": {
+    "Title": "Wer wir sind",
+    "Text1": "Wir sind Susi und Dominik – leidenschaftliche Angler und stolze Besitzer dieses wunderschönen Sees. Unsere Geschichte begann mit der gemeinsamen Liebe zur Natur und zur Kunst des Angelns. Wir haben diesen Ort nicht nur zu unserem Zuhause gemacht, sondern auch zu einem Ort, an dem Gleichgesinnte zusammenkommen, um ihre Angelerfahrungen zu teilen und die Schönheit der Natur zu genießen.",
+    "Text2": "Unsere Tage drehen sich um das, was wir lieben: das sanfte Rauschen des Wassers, das Gefühl der Vorfreude, wenn wir unsere Köder auswerfen, und die Freude, einen prächtigen Fisch zu fangen. Doch wir sind mehr als nur leidenschaftliche Angler. Wir sind auch Gastgeber und Berater. Wir möchten, dass Sie jede Minute an unserem See in vollen Zügen genießen können.",
+    "Text3": "Egal, ob Sie ein erfahrener Angler sind oder zum ersten Mal eine Angelrute in die Hand nehmen, wir stehen Ihnen mit Rat und Tat zur Seite. Haben Sie Fragen zur besten Angeltechnik für diesen See? Interessieren Sie sich für bewährte Tricks, um den größten Fang des Tages zu landen? Oder suchen Sie einfach nach einem entspannten Ort, an dem Sie sich kulinarisch verwöhnen lassen können? Wir sind hier, um Ihnen zu helfen.",
+    "Text4": "Unsere Gastfreundschaft reicht über das Angeln hinaus. In unserem gemütlichen Refugium am Ufer können Sie sich zurücklehnen und die Aussicht genießen. Unser Team bereitet köstliche Mahlzeiten und erfrischende Getränke zu, damit Sie gestärkt und zufrieden bleiben.",
+    "Text5": "Willkommen bei uns, wo die Leidenschaft für das Angeln auf die Schönheit der Natur trifft. Wir freuen uns darauf, Sie am See zu begrüßen, Ihnen unsere besten Tipps zu teilen, Ihnen beim Erreichen Ihrer Angelziele zu helfen und Ihnen eine unvergessliche Zeit zu bereiten – sowohl auf dem Wasser als auch an Land.",
+    "Susi": {
+      "Title": "Susi",
+      "Skill1": "Inhaberin",
+      "Skill2": "Tipps und Tricks",
+      "Skill3": "Kulinarisches"
+    },
+    "Dominik": {
+      "Title": "Dominik",
+      "Skill1": "Inhaber",
+      "Skill2": "Tipps und Tricks",
+      "Skill3": "Beratung"
+    }
   }
 }
