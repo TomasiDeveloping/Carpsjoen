@@ -144,6 +144,26 @@
       "Title": "YouTube",
       "Text": "This website uses features of the \"YouTube\" service. \"YouTube\" is owned by Google Ireland Limited, a company incorporated and operated under Irish law with its registered office at Gordon House, Barrow Street, Dublin 4, Ireland, which provides services within the European Economic Area and Switzerland.\nYour legal agreement with \"YouTube\" consists of the terms you can find at the following link: https://www.youtube.com/static?gl=en&template=terms&hl=en. These terms constitute a legally binding agreement between you and \"YouTube\" regarding your use of the services. Google's privacy policy explains how \"YouTube\" handles and protects your personal data when you use the service."
     }
+  },
+  "AboutUs": {
+    "Title": "About Us",
+    "Text1": "We are Susi and Dominik – passionate anglers and proud owners of this beautiful lake. Our story began with a shared love for nature and the art of fishing. We've not only made this place our home, but also a gathering spot for like-minded individuals to share their angling experiences and appreciate the beauty of nature.",
+    "Text2": "Our days revolve around what we love: the gentle rustling of the water, the anticipation as we cast our baits, and the joy of catching a magnificent fish. Yet, we are more than just passionate anglers. We are also hosts and advisors. We want you to fully enjoy every moment at our lake.",
+    "Text3": "Whether you're an experienced angler or holding an angling rod for the first time, we're here to assist you with advice and support. Do you have questions about the best angling techniques for this lake? Are you interested in proven tricks to land the biggest catch of the day? Or are you simply looking for a relaxed place to indulge in culinary delights? We're here to help.",
+    "Text4": "Our hospitality extends beyond fishing. In our cozy retreat by the shore, you can unwind and enjoy the view. Our team prepares delicious meals and refreshing beverages to keep you energized and content.",
+    "Text5": "Welcome to our place, where the passion for fishing meets the beauty of nature. We look forward to welcoming you to the lake, sharing our top tips, assisting you in reaching your angling goals, and providing you with an unforgettable experience – both on the water and on land.",
+    "Susi": {
+      "Title": "Susi",
+      "Skill1": "Owner",
+      "Skill2": "Tips and Tricks",
+      "Skill3": "Culinary"
+    },
+    "Dominik": {
+      "Title": "Dominik",
+      "Skill1": "Owner",
+      "Skill2": "Tips and Tricks",
+      "Skill3": "Consultation"
+    }
   }
 }
 

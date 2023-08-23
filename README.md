@@ -13,6 +13,8 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=TomasiDeveloping_Carpsjoen&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=TomasiDeveloping_Carpsjoen)
 ## Changelog
 ## Work in progress
+### 0.0.3 (2023-08-23)
+- Add About page
 ### 0.0.2 (2023-08-17)
 - Add Navigation
 - Add Startpage

@@ -1,0 +1,26 @@
+.team-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.team-member {
+  text-align: center;
+  margin: 20px;
+}
+
+.member-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.skills-list {
+  list-style: none;
+  padding: 0;
+}
+
+.skills-list li {
+  margin-bottom: 5px;
+}

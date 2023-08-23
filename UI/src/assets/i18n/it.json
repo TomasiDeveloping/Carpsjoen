@@ -144,5 +144,25 @@
       "Title": "YouTube",
       "Text": "Questo sito Web utilizza funzionalità del servizio \"YouTube\". \"YouTube\" è di proprietà di Google Ireland Limited, una società incorporata e operante in base al diritto irlandese con sede legale presso Gordon House, Barrow Street, Dublino 4, Irlanda, che fornisce servizi nell'area economica europea e in Svizzera.\nIl tuo accordo legale con \"YouTube\" è costituito dai termini che puoi trovare al seguente link: https://www.youtube.com/static?gl=en&template=terms&hl=en. Questi termini costituiscono un accordo legalmente vincolante tra te e \"YouTube\" riguardo all'utilizzo dei servizi. L'informativa sulla privacy di Google spiega come \"YouTube\" gestisce e protegge i tuoi dati personali quando utilizzi il servizio."
     }
+  },
+  "AboutUs": {
+    "Title": "Chi Siamo",
+    "Text1": "Siamo Susi e Dominik - pescatori appassionati e orgogliosi proprietari di questo splendido lago. La nostra storia è iniziata con un amore condiviso per la natura e l'arte della pesca. Non abbiamo solo reso questo luogo la nostra casa, ma anche un punto di ritrovo dove persone con interessi simili si riuniscono per condividere le loro esperienze di pesca e apprezzare la bellezza della natura.",
+    "Text2": "Le nostre giornate ruotano attorno a ciò che amiamo: il leggero fruscio dell'acqua, l'anticipazione nel lanciare le esche e la gioia di catturare un pesce magnifico. Tuttavia, siamo più di semplici pescatori appassionati. Siamo anche padroni di casa e consulenti. Vogliamo che tu possa goderti appieno ogni istante presso il nostro lago.",
+    "Text3": "Che tu sia un pescatore esperto o che tu tenga una canna da pesca per la prima volta, siamo qui per assisterti con consigli e supporto. Hai domande sulle migliori tecniche di pesca per questo lago? Sei interessato a trucchi provati per catturare la preda più grande della giornata? O stai semplicemente cercando un luogo rilassante per gustare delizie culinarie? Siamo qui per aiutarti.",
+    "Text4": "La nostra ospitalità si estende oltre la pesca. Nel nostro rifugio accogliente sulla riva, puoi rilassarti e goderti la vista. Il nostro team prepara pasti deliziosi e bevande rinfrescanti per mantenerti energizzato e soddisfatto.",
+    "Text5": "Benvenuti nel nostro luogo, dove la passione per la pesca incontra la bellezza della natura. Non vediamo l'ora di darti il benvenuto al lago, condividere i nostri migliori consigli, aiutarti a raggiungere i tuoi obiettivi di pesca e offrirti un'esperienza indimenticabile - sia sull'acqua che sulla terraferma.",
+    "Susi": {
+      "Title": "Susi",
+      "Skill1": "Proprietaria",
+      "Skill2": "Consigli e Trucchi",
+      "Skill3": "Culinaria"
+    },
+    "Dominik": {
+      "Title": "Dominik",
+      "Skill1": "Proprietario",
+      "Skill2": "Consigli e Trucchi",
+      "Skill3": "Consulenza"
+    }
   }
 }
