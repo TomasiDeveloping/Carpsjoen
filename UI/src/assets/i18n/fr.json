@@ -3,7 +3,8 @@
     "StartPage": "Page d'accueil",
     "Facility": "L'installation",
     "About": "À propos de nous",
-    "Rules": "Règles de pêche"
+    "Rules": "Règles de pêche",
+    "Arrival": "Arrivée"
   },
   "StartPage": {
     "Welcome": "Bienvenue à l'Étang de la Noë Frenouse !",
@@ -38,7 +39,8 @@
   "Footer": {
     "Contact": "Contact",
     "Imprint": "Mentions légales",
-    "Privacy": "Confidentialité"
+    "Privacy": "Confidentialité",
+    "Arrival": "Arrivée"
   },
   "Imprint": {
     "Title": "Mentions légales",
@@ -190,5 +192,32 @@
     },
     "ClosingWords": "Nous avons confiance en votre respect de ces règlements et en votre comportement responsable. En protégeant les stocks de poissons et en préservant la propreté de nos eaux, vous contribuez à une expérience de pêche durable. Nous vous souhaitons d'agréables heures au bord du lac et beaucoup de succès dans vos activités de pêche. Bonne pêche !",
     "Questions": "N'hésitez pas à nous contacter si vous avez des questions ou des incertitudes."
+  },
+  "Arrival": {
+    "Title": "Arrivée",
+    "Introduction": "Instructions pour se rendre à Esboz-Brest en France. Vous trouverez ici des informations utiles pour optimiser vos plans de voyage.",
+    "Possibility1": {
+      "Title": "En Avion:",
+      "Description": "L'aéroport le plus proche est l'aéroport Brest Bretagne (BES), situé à environ 20 kilomètres d'Esboz-Brest. À partir de là, vous avez plusieurs options pour rejoindre votre destination :",
+      "List": {
+        "Subtitle1": "Voiture de Location:",
+        "Description1": "Des entreprises de location de voitures sont disponibles à l'aéroport. Réservez à l'avance pour garantir la catégorie de véhicule de votre choix.",
+        "Subtitle2": "Taxi:",
+        "Description2": "Des taxis sont disponibles à l'aéroport et vous conduiront confortablement à Esboz-Brest. Le temps de trajet est d'environ 30 minutes, selon la circulation."
+      }
+    },
+    "Possibility2": {
+      "Title": "En Train:",
+      "Description": "Brest dispose d'une gare principale bien reliée au réseau ferroviaire français. Vous pouvez prendre un train jusqu'à la gare de Brest et poursuivre votre voyage jusqu'à Esboz-Brest à partir de là."
+    },
+    "Possibility3": {
+      "Title": "En Voiture:",
+      "Description": "Si vous arrivez en voiture, empruntez les autoroutes et les routes appropriées en fonction de votre position actuelle. Entrez \"70300 Esboz-Brest, France\" dans votre système de navigation pour trouver le meilleur itinéraire."
+    },
+    "Possibility4": {
+      "Title": "En Bus:",
+      "Description": "Les autocars pourraient être un autre moyen d'atteindre Esboz-Brest. Renseignez-vous sur les compagnies de bus qui pourraient proposer cette ligne et planifiez en conséquence."
+    },
+    "ClosingWords": "Nous vous recommandons de vérifier les conditions de circulation actuelles et de faire toutes les réservations nécessaires à l'avance pour que votre voyage se déroule le plus aisément possible. Nous vous souhaitons un agréable voyage jusqu'à Esboz-Brest en France !"
   }
 }

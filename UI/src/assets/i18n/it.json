@@ -3,7 +3,8 @@
     "StartPage": "Pagina iniziale",
     "Facility": "La struttura",
     "About": "Chi siamo",
-    "Rules": "Regolamenti di pesca"
+    "Rules": "Regolamenti di pesca",
+    "Arrival": "Arrivo"
   },
   "StartPage": {
     "Welcome": "Benvenuti al Étang de la Noë Frenouse!",
@@ -38,7 +39,8 @@
   "Footer": {
     "Contact": "Contatti",
     "Imprint": "Impronta",
-    "Privacy": "Protezione dei dati"
+    "Privacy": "Protezione dei dati",
+    "Arrival": "Arrivo"
   },
   "Imprint": {
     "Title": "Impronta",
@@ -190,5 +192,32 @@
     },
     "ClosingWords": "Abbiamo fiducia che rispetterai queste regole e ti comporterai in modo responsabile. Proteggendo le popolazioni ittiche e mantenendo pulite le nostre acque, contribuirai a un'esperienza di pesca sostenibile. Ti auguriamo ore rilassanti al lago e successo nelle tue attività di pesca. Buona pesca!",
     "Questions": "Non esitare a contattarci se hai domande o dubbi."
+  },
+  "Arrival": {
+    "Title": "Arrivo",
+    "Introduction": "Indicazioni per raggiungere Esboz-Brest in Francia. Qui troverai informazioni utili per ottimizzare i tuoi piani di viaggio.",
+    "Possibility1": {
+      "Title": "In Aereo:",
+      "Description": "L'aeroporto più vicino è l'Aeroporto di Brest Bretagna (BES), situato a circa 20 chilometri da Esboz-Brest. Da qui, hai diverse opzioni per raggiungere la tua destinazione:",
+      "List": {
+        "Subtitle1": "Noleggio Auto:",
+        "Description1": "Ci sono aziende di noleggio auto disponibili in aeroporto. Prenota in anticipo per assicurarti la categoria di veicolo preferita.",
+        "Subtitle2": "Taxi:",
+        "Description2": "Ci sono taxi disponibili in aeroporto e ti porteranno comodamente a Esboz-Brest. Il tempo di percorrenza è di circa 30 minuti, a seconda del traffico."
+      }
+    },
+    "Possibility2": {
+      "Title": "In Treno:",
+      "Description": "Brest ha una stazione ferroviaria principale ben collegata alla rete ferroviaria francese. Puoi prendere un treno fino alla stazione di Brest e continuare il tuo viaggio verso Esboz-Brest da lì."
+    },
+    "Possibility3": {
+      "Title": "In Auto:",
+      "Description": "Se arrivi in auto, utilizza le autostrade e le strade appropriate in base alla tua posizione attuale. Inserisci \"70300 Esboz-Brest, Francia\" nel tuo sistema di navigazione per trovare il percorso migliore."
+    },
+    "Possibility4": {
+      "Title": "In Autobus:",
+      "Description": "Gli autobus potrebbero essere un altro modo per raggiungere Esboz-Brest. Verifica le compagnie di autobus che potrebbero offrire questa tratta e pianifica di conseguenza."
+    },
+    "ClosingWords": "Ti consigliamo di verificare le condizioni del traffico attuali e di effettuare eventuali prenotazioni necessarie in anticipo per rendere il tuo viaggio il più agevole possibile. Ti auguriamo un piacevole viaggio a Esboz-Brest in Francia!"
   }
 }

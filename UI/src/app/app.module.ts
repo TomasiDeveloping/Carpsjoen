@@ -18,6 +18,7 @@ import { ImprintComponent } from './pages/footer/imprint/imprint.component';
 import { PrivacyComponent } from './pages/footer/privacy/privacy.component';
 import { ContactComponent } from './pages/footer/contact/contact.component';
 import {ReactiveFormsModule} from "@angular/forms";
+import { ArrivalComponent } from './pages/arrival/arrival.component';
 
 @NgModule({
   declarations: [
@@ -31,6 +32,7 @@ import {ReactiveFormsModule} from "@angular/forms";
     ImprintComponent,
     PrivacyComponent,
     ContactComponent,
+    ArrivalComponent,
   ],
   imports: [
     BrowserModule,
