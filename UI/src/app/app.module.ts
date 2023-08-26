@@ -9,7 +9,6 @@ import { HomeComponent } from './pages/home/home.component';
 import { FacilityComponent } from './pages/facility/facility.component';
 import { RulesComponent } from './pages/rules/rules.component';
 import { AboutComponent } from './pages/about/about.component';
-import {YouTubePlayerModule} from "@angular/youtube-player";
 import {TranslateLoader, TranslateModule} from "@ngx-translate/core";
 import {TranslateHttpLoader} from "@ngx-translate/http-loader";
 import {HttpClient, HttpClientModule} from "@angular/common/http";
@@ -38,7 +37,6 @@ import { ArrivalComponent } from './pages/arrival/arrival.component';
     BrowserModule,
     RouterModule,
     AppRoutingModule,
-    YouTubePlayerModule,
     HttpClientModule,
     ReactiveFormsModule,
     TranslateModule.forRoot({
