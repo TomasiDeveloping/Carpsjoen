@@ -13,6 +13,10 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=TomasiDeveloping_Carpsjoen&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=TomasiDeveloping_Carpsjoen)
 ## Changelog
 ## Work in progress
+### 0.1.0 (2023-08-26)
+- Update NuGet packages
+- Update Angular -> 16.2.2
+- Fix Critters Cross-site Scripting Vulnerability
 ### 0.0.5 (2023-08-26)
 - First draft arrival page
 ### 0.0.4 (2023-08-26)
