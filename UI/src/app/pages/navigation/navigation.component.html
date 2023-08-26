@@ -52,7 +52,7 @@
               <a (click)="changeSiteLanguage(language.code)" *ngFor="let language of languageList"
                  class="dropdown-item">
                 {{language.label}}
-                <img src='{{ "assets/flags/" + language.code + ".png" }}'>
+                <img src='{{ "assets/flags/" + language.code + ".png" }}' alt="Language flag">
               </a>
             </li>
           </ul>
