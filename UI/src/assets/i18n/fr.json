@@ -3,7 +3,7 @@
     "StartPage": "Page d'accueil",
     "Facility": "L'installation",
     "About": "À propos de nous",
-    "Rules": "Règles"
+    "Rules": "Règles de pêche"
   },
   "StartPage": {
     "Welcome": "Bienvenue à l'Étang de la Noë Frenouse !",
@@ -164,5 +164,31 @@
       "Skill2": "Conseils et Astuces",
       "Skill3": "Consultation"
     }
+  },
+  "Rules": {
+    "Title": "Règlement de pêche",
+    "Introduction": "Nous accordons une grande importance à la protection de notre population de poissons et à la préservation de nos magnifiques eaux. Veuillez observer les règlements de pêche suivants pour garantir que votre expérience de pêche soit agréable et durable :",
+    "Rule1": {
+      "Title": "Capture et relâche :",
+      "Rule": "Tous les poissons capturés doivent être immédiatement remis délicatement dans l'eau après leur capture. Notre objectif est de protéger les poissons et de préserver leurs stocks."
+    },
+    "Rule2": {
+      "Title": "Manipulation douce des poissons :",
+      "Rule": "Nous attachons une grande importance à la manipulation douce des poissons. Veuillez toucher les poissons le moins possible et les relâcher avec le plus grand soin. Évitez toute pression excessive ou stress pour les poissons."
+    },
+    "Rule3": {
+      "Title": "Désinfection en cas de blessures :",
+      "Rule": "Si vous capturez des poissons blessés, veuillez utiliser un désinfectant pour traiter les blessures. Le désinfectant est disponible au bord du lac ou peut être apporté avec vous. Appliquez une à deux gouttes de désinfectant sur les zones blessées, laissez agir pendant environ 10 secondes, puis relâchez délicatement le poisson."
+    },
+    "Rule4": {
+      "Title": "Vol :",
+      "Rule": "Tout vol, quelle que soit sa taille, sera signalé sans exception. Nous demandons le respect de la propriété d'autrui et la compréhension de l'importance du respect collectif des règles."
+    },
+    "Rule5": {
+      "Title": "Propreté aux postes de pêche :",
+      "Rule": "Veuillez maintenir la propreté de vos postes de pêche. Éliminez correctement les déchets dans les conteneurs prévus à cet effet. Laissez la nature aussi belle que vous l'avez trouvée."
+    },
+    "ClosingWords": "Nous avons confiance en votre respect de ces règlements et en votre comportement responsable. En protégeant les stocks de poissons et en préservant la propreté de nos eaux, vous contribuez à une expérience de pêche durable. Nous vous souhaitons d'agréables heures au bord du lac et beaucoup de succès dans vos activités de pêche. Bonne pêche !",
+    "Questions": "N'hésitez pas à nous contacter si vous avez des questions ou des incertitudes."
   }
 }

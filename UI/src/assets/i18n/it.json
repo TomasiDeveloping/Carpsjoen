@@ -3,7 +3,7 @@
     "StartPage": "Pagina iniziale",
     "Facility": "La struttura",
     "About": "Chi siamo",
-    "Rules": "Regole"
+    "Rules": "Regolamenti di pesca"
   },
   "StartPage": {
     "Welcome": "Benvenuti al Étang de la Noë Frenouse!",
@@ -164,5 +164,31 @@
       "Skill2": "Consigli e Trucchi",
       "Skill3": "Consulenza"
     }
+  },
+  "Rules": {
+    "Title": "Regolamento di Pesca",
+    "Introduction": "Diamo grande importanza alla protezione della nostra popolazione di pesci e alla conservazione delle nostre meravigliose acque. Si prega di osservare le seguenti regole di pesca per garantire che la tua esperienza di pesca sia piacevole e sostenibile:",
+    "Rule1": {
+      "Title": "Pesca e Rilascio:",
+      "Rule": "Tutti i pesci catturati devono essere delicatamente rilasciati nell'acqua immediatamente dopo la cattura. Il nostro obiettivo è proteggere i pesci e preservare le loro popolazioni."
+    },
+    "Rule2": {
+      "Title": "Trattamento Gentile dei Pesci:",
+      "Rule": "Diamo grande importanza al trattamento gentile dei pesci. Ti preghiamo di toccare i pesci il meno possibile e di rilasciarli con estrema cura. Evita pressioni e stress eccessivi sui pesci."
+    },
+    "Rule3": {
+      "Title": "Disinfezione per le Ferite:",
+      "Rule": "Se catturi pesci feriti, ti preghiamo di utilizzare un disinfettante per trattare le ferite. Il disinfettante è disponibile al lago o può essere portato con te. Applica una o due gocce di disinfettante sulle zone ferite, lascia agire per circa 10 secondi e quindi rilascia delicatamente il pesce."
+    },
+    "Rule4": {
+      "Title": "Furto:",
+      "Rule": "Qualsiasi furto, indipendentemente dalla sua entità, sarà segnalato senza eccezioni. Chiediamo rispetto per la proprietà altrui e comprensione dell'importanza del rispetto collettivo delle regole."
+    },
+    "Rule5": {
+      "Title": "Pulizia nei Luoghi di Pesca:",
+      "Rule": "Ti preghiamo di mantenere puliti i luoghi in cui peschi. Smaltisci correttamente i rifiuti nei contenitori designati. Lascia la natura bella come l'hai trovata."
+    },
+    "ClosingWords": "Abbiamo fiducia che rispetterai queste regole e ti comporterai in modo responsabile. Proteggendo le popolazioni ittiche e mantenendo pulite le nostre acque, contribuirai a un'esperienza di pesca sostenibile. Ti auguriamo ore rilassanti al lago e successo nelle tue attività di pesca. Buona pesca!",
+    "Questions": "Non esitare a contattarci se hai domande o dubbi."
   }
 }
