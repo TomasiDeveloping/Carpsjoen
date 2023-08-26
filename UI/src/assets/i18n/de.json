@@ -3,7 +3,7 @@
     "StartPage": "Startseite",
     "Facility": "Die Anlage",
     "About": "Über uns",
-    "Rules": "Regeln"
+    "Rules": "Angelvorschriften"
   },
   "StartPage": {
     "Welcome": "Willkommen am Étang de la Noë Frenouse!",
@@ -164,5 +164,31 @@
       "Skill2": "Tipps und Tricks",
       "Skill3": "Beratung"
     }
+  },
+  "Rules": {
+    "Title": "Angelvorschriften",
+    "Introduction": "Wir legen großen Wert auf den Schutz unserer Fischpopulation und die Erhaltung unserer wunderschönen Gewässer. Bitte beachten Sie die folgenden Angelvorschriften, um sicherzustellen, dass Ihr Angelerlebnis angenehm und nachhaltig ist:",
+    "Rule1": {
+      "Title": "Catch and Release (Fangen und Freilassen):",
+      "Rule": "Alle gefangenen Fische müssen sofort nach dem Fang behutsam zurück ins Wasser gesetzt werden. Unser Ziel ist es, die Fische zu schützen und ihre Bestände zu erhalten."
+    },
+    "Rule2": {
+      "Title": "Schonender Umgang mit den Fischen:",
+      "Rule": "Wir legen großen Wert auf den schonenden Umgang mit den Fischen. Bitte berühren Sie die Fische so wenig wie möglich und setzen Sie sie mit äußerster Vorsicht zurück. Vermeiden Sie übermäßigen Druck oder Stress für die Fische."
+    },
+    "Rule3": {
+      "Title": "Desinfektion bei Verletzungen:",
+      "Rule": "Sollten Sie Fische mit Verletzungen fangen, verwenden Sie bitte Desinfektionsmittel, um die Wunden zu behandeln. Desinfektionsmittel sind am See erhältlich, können jedoch auch selbst mitgebracht werden. Träufeln Sie ein bis zwei Tropfen Desinfektionsmittel auf die verletzten Stellen, lassen Sie es etwa 10 Sekunden einwirken und setzen Sie den Fisch dann vorsichtig zurück."
+    },
+    "Rule4": {
+      "Title": "Diebstahl:",
+      "Rule": "Jeder Diebstahl, egal wie klein oder groß, wird ohne Ausnahme zur Anzeige gebracht. Wir bitten um Respekt vor dem Eigentum anderer und um Verständnis für die Bedeutung der gemeinsamen Einhaltung der Regeln."
+    },
+    "Rule5": {
+      "Title": "Sauberkeit an den Angelstellen:",
+      "Rule": "Halten Sie bitte Ihre Angelstellen sauber. Entsorgen Sie Abfälle ordnungsgemäß in den dafür vorgesehenen Behältern. Lassen Sie die Natur so schön, wie Sie sie vorgefunden haben."
+    },
+    "ClosingWords": "Wir vertrauen darauf, dass Sie diese Vorschriften respektieren und sich verantwortungsbewusst verhalten. Indem Sie die Fischbestände schützen und unsere Gewässer sauber halten, tragen Sie zu einer nachhaltigen Angelerfahrung bei. Wir wünschen Ihnen erholsame Stunden am See und viel Erfolg beim Angeln. Ein herzliches \"Petri Heil!\"",
+    "Questions": "Bitte zögern Sie nicht, bei Fragen oder Unklarheiten Kontakt mit uns aufzunehmen."
   }
 }

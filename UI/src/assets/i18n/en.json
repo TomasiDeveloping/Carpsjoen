@@ -3,7 +3,7 @@
     "StartPage": "Home",
     "Facility": "Facility",
     "About": "About us",
-    "Rules": "Rules"
+    "Rules": "Fishing rules"
   },
   "StartPage": {
     "Welcome": "Welcome to Étang de la Noë Frenouse!",
@@ -164,6 +164,32 @@
       "Skill2": "Tips and Tricks",
       "Skill3": "Consultation"
     }
+  },
+  "Rules": {
+    "Title": "Fishing Regulations",
+    "Introduction": "We place great emphasis on protecting our fish population and preserving our beautiful waters. Please observe the following fishing regulations to ensure that your fishing experience is pleasant and sustainable:",
+    "Rule1": {
+      "Title": "Catch and Release:",
+      "Rule": "All caught fish must be gently returned to the water immediately after capture. Our goal is to protect the fish and preserve their stocks."
+    },
+    "Rule2": {
+      "Title": "Gentle Handling of Fish:",
+      "Rule": "We value the gentle handling of fish. Please touch the fish as little as possible and release them with utmost care. Avoid excessive pressure or stress on the fish."
+    },
+    "Rule3": {
+      "Title": "Disinfection for Injuries:",
+      "Rule": "If you catch fish with injuries, please use disinfectant to treat the wounds. Disinfectant is available at the lake or can be brought along. Apply one to two drops of disinfectant to the injured areas, let it work for about 10 seconds, and then gently release the fish."
+    },
+    "Rule4": {
+      "Title": "Theft:",
+      "Rule": "Any theft, no matter how small or large, will be reported without exception. We ask for respect for the property of others and understanding of the importance of collectively adhering to the rules."
+    },
+    "Rule5": {
+      "Title": "Cleanliness at Fishing Spots:",
+      "Rule": "Please keep your fishing spots clean. Dispose of waste properly in designated containers. Leave nature as beautiful as you found it."
+    },
+    "ClosingWords": "We trust that you will respect these regulations and behave responsibly. By protecting the fish stocks and keeping our waters clean, you contribute to a sustainable fishing experience. We wish you relaxing hours at the lake and success in your fishing endeavors. Tight lines!",
+    "Questions": "Please feel free to contact us if you have any questions or uncertainties."
   }
 }
 

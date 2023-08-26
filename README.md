@@ -13,11 +13,13 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=TomasiDeveloping_Carpsjoen&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=TomasiDeveloping_Carpsjoen)
 ## Changelog
 ## Work in progress
+### 0.0.4 (2023-08-26)
+- First draft fishing regulations Page
 ### 0.0.3 (2023-08-23)
-- Add About page
+- First draft About page
 ### 0.0.2 (2023-08-17)
-- Add Navigation
-- Add Startpage
+- First draft Navigation
+- First draft Startpage
 - Add Multilanguage
 - Add Dark/Light Mode
 ### 0.0.1 (2023-29-07)
