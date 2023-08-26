@@ -7,6 +7,7 @@ import {AboutComponent} from "./pages/about/about.component";
 import {ImprintComponent} from "./pages/footer/imprint/imprint.component";
 import {PrivacyComponent} from "./pages/footer/privacy/privacy.component";
 import {ContactComponent} from "./pages/footer/contact/contact.component";
+import {ArrivalComponent} from "./pages/arrival/arrival.component";
 
 const routes: Routes = [
   {path: 'home', component: HomeComponent},
@@ -16,7 +17,8 @@ const routes: Routes = [
   {path: 'about', component: AboutComponent},
   {path: 'imprint', component: ImprintComponent},
   {path: 'privacy', component: PrivacyComponent},
-  {path: 'contact', component: ContactComponent}
+  {path: 'contact', component: ContactComponent},
+  {path: 'arrival', component: ArrivalComponent}
 ];
 
 @NgModule({
